@@ -1,0 +1,3 @@
+﻿language: csharp
+solution: HelloOrlando.sln
+os: windows
